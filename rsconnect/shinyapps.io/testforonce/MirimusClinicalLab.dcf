@@ -1,0 +1,12 @@
+name: MirimusClinicalLab
+title: MirimusClinicalLab
+username: testforonce
+account: testforonce
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4115930
+bundleId: 8657274
+url: https://testforonce.shinyapps.io/MirimusClinicalLab/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
